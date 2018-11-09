@@ -1,24 +1,24 @@
-#A Standard for Responsible Disclosure in Cryptocurrency and Related Software
+# A Standard for Responsible Disclosure in Cryptocurrency and Related Software
 
-##Background
+## Background
 Cryptocurrencies represent a radical shift from the legacy financial system and as a result provide an opportunity to help reshape the finance world. It is essential to recall that cryptocurrencies represent real money and introducing bugs and security vulnerabilities can cost users a significant amount of money, but ultimately hurt all other participants in the space.
 
 There are several open source projects with common code, with shared goals of expansion in capability and investment, driven by market confidence in their integrity, that would benefit from a safe and well-defined vulnerability sharing processes.
 
 For this reason, we have formalized a Responsible Disclosure policy that sets a standard for how organizations can share vulnerability information ethically, responsibly and for the good of the ecosystem.
 
-#Guiding Principles
+# Guiding Principles
 - We recognize that prior to mainstream adoption of cryptocurrencies, the safety and associated growth of the ecosystem of technologies is more important than competition within the space, at least when considering security vulnerability information.
 - We recognize that universal adoption of basic security responses to disclosures is vital to the prosperity of the ecosystem and by extension every member of it.
 - We recognize that this standard must reflect and respect the complexities of the crypto ecosystem and provide the opportunity for organizations to adhere to their own values and working practices beyond this basic standard.
 
-#Purpose
+# Purpose
 This standard is intended to set the expectations and limitations of the disclosure process and each party’s participation in it, to reduce the effort and confusion involved in disclosing vulnerabilities, and to encourage participation in vital security practices for the benefit of all participants.
 
-#The Standard
+# The Standard
 To adhere to this standard, your organization will need to publish a document describing your disclosure process and follow the basic practices involved. This document is a suggested starting point. Publishing can be achieved using GitHub, but wherever it is published it should be possible to link directly to it with a static url so that it can be linked by other participating organizations. 
 
-##Ethical Behavior
+## Ethical Behavior
 Responsible disclosure is predicated on ethical behavior. These guidelines outline best practices for the community as whole, whether you are reporting, or the recipient of a report. By stating that you adhere to this policy, you’re claiming to handle vulnerability information ethically, and abide by the following:
 
 - Do not attempt to leverage a vulnerability, or information of its existence, as part of a financial trading strategy.
@@ -29,7 +29,7 @@ Responsible disclosure is predicated on ethical behavior. These guidelines outli
 - Do not disclose a bug or vulnerability on mailing lists, public boards, forums, social media or any other channel prior to Responsibly Disclosing to the organizations you have a published relationship with
 - Do not attempt any illegal acts, including phishing, physical attacks, DDoS, or any attempt to gain access without authorization
 
-#Publicly Committing to Disclosure Process
+# Publicly Committing to Disclosure Process
 To commit to this standard it requires that your published disclosure process include an addendum section that outlines policies specific to your project.
 
 1. Your preferred contact method (eg. email to this address)
@@ -39,20 +39,20 @@ To commit to this standard it requires that your published disclosure process in
 5. A link to this standard.
 6. The date that your commitment was last updated.
 
-#Publicly Committing to Disclosure Relationships
+# Publicly Committing to Disclosure Relationships
 To provide ecosystem cohesion and the expectation of cooperation and timely delivery of vulnerability information, each participating organization will publicly commit to making disclosures that may affect related projects (‘neighbors’). This does not limit any participating organization from responsibly disclosing to other organizations, provided that they follow the other provisions and restrictions of this standard when doing so.
 
 Committing to disclosure relationships serves the purpose of setting the expectation of sharing by proxy to those parties should it be likely they are also affected by a disclosed bug. The intention is that all affected parties will collaborate on fixes, release updates together, then release vulnerability details together in concert with the original disclosing party.
 
-#Standard Disclosure Timelines
+# Standard Disclosure Timelines
 Some vulnerabilities take more time to fix than others, and some organizations are able to switch tasks to fixes faster than others, and this ability tends to fluctuate over time.
 
-#Initial Contact
+# Initial Contact
 To disclose to a neighbor that you have an existing relationship with, you must contact them via their published contact details using the security procedures that they have published. If you get no response within two working days, you must try another two times with an interval of two working days each time. If you get no acknowledgement to those messages, you may optionally decide to attempt to reach them using other methods, but you must not include details of the vulnerability unless you are using their approved secure communication method.
 
 If there is no response after your initial contact attempts, you should send another message saying that there has been no response to your (at least three) messages and setting a date for public disclosure that is not less than 90 days in the future and not more than sixty days. If you receive a response during that time, both parties can agree to change the disclosure date in accordance with the rest of this process.
 
-#Giving Details
+# Giving Details
 After you receive a response to your initial contact, you should disclose the details of the vulnerability to the potentially affected party, along with reasons you think they may be affected and any advice you have on how to fix the issue.
 Once you have made initial contact, you are expected to provide all the technical details about the vulnerability within two working days of receiving acknowledgement of your initial contact.
 
@@ -64,7 +64,7 @@ Your report should include:
 - Your name and/or colleagues if you wish to be later recognized
 - Optionally a patch and/or suggestions to resolve the vulnerability
 
-#Setting Dates
+# Setting Dates
 After you have provided details of the issue to your neighbors, you both should agree on a date to release updates and a date to publicize the details of the issue. Issues that require only a small change should correspond with a date relatively soon after giving details - somewhere between 30 and 60 days. Issues that require a more significant investment by both parties might result in a date set up to 90 days in the future.
 
 Parties involved in the disclosure should have the expectation of negotiating publishing dates with all of their neighbors that share the affected code, even if it turns out that those neighbors are not vulnerable for some other reason not known at the time.
@@ -73,7 +73,7 @@ It is up to each organization to determine their level of vulnerability to any d
 
 It is up to each organization to notify their users of the availability of a fix and migrate their user base to the fixed version.
 
-#Coordinated Release
+# Coordinated Release
 When executed faithfully, the intention of this standard is to have all affected parties release a fix for an issue to their users together, and then all release details of the vulnerability together after a period of time that everyone can agree on.
 
 In practice this is not always possible, and sometimes it will be necessary to release when one or more parties are not ready. Without the threat of public release of vulnerability information, organizations aren’t always incentivized to act in good faith for the security of their users.
@@ -84,10 +84,10 @@ Responding with appropriate development resources to fix security bugs, implemen
 
 At time of release, participants should make a reasonable effort to discreetly patch. Avoid language that can draw undue attention to commits & PRs, or consider embedding the fix among other updates.
 
-#Bounty Payments
+# Bounty Payments
 Parties that have been disclosed to may, at their discretion, decide to pay a bounty to a disclosing party, but within the limits of their existing relationship (in the case of a neighbor), or their published bug bounty program (in the case of anyone else). Organizations implementing this standard may not attempt to coerce payments or sell bugs (see the section on “Ethical Behavior”). 
 
-#Acknowledgements
+# Acknowledgements
 If the reporting individual or organization would like to be recognized for their discovery, they may do so after the disclosure timeout. At the discretion of each participating team, a list of these individuals and/or organizations may recognize vulnerabilities disclosed responsibly.
 
 Reference links:
