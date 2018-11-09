@@ -96,7 +96,6 @@ https://medium.com/mit-media-lab-digital-currency-initiative/http-coryfields-com
 https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2017-September/015036.html
 http://bitcoincore.org/en/contact
 https://lists.linuxfoundation.org/pipermail/bitcoin-dev/
-https://lists.linuxfoundation.org/pipermail/bitcoin-dev/
 https://www.reddit.com/r/btc/comments/6zf1qo/peter_todd_
 https://www.reddit.com/r/btc/comments/6z827o/chris_jeffrey_
 https://www.reddit.com/r/btc/comments/6zb3lp/maxwell_
