@@ -15,24 +15,17 @@ For this reason, we have formalized a Responsible Disclosure policy that sets a 
 ## Purpose
 This standard is intended to set the expectations and limitations of the disclosure process and each party’s participation in it, to reduce the effort and confusion involved in disclosing vulnerabilities, and to encourage participation in vital security practices for the benefit of all participants.
 
-## The Standard
-To adhere to this standard, your organization will need to publish a document describing your disclosure process and follow the basic practices involved. This document is a suggested starting point. Publishing can be achieved using GitHub, but wherever it is published it should be possible to link directly to it with a static url so that it can be linked by other participating organizations. 
+## How to use this standard
 
-### Ethical Behavior
-Responsible disclosure is predicated on ethical behavior. These guidelines outline best practices for the community as whole, whether you are reporting, or the recipient of a report. By stating that you adhere to this policy, you’re claiming to handle vulnerability information ethically, and abide by the following:
-
-- Do not attempt to leverage a vulnerability, or information of its existence, as part of a financial trading strategy.
-- Do not attempt to compromise systems upon which development of a product relies; including but not limited to compromising development systems, accounts, domains, email etc..
-- Do not attempt to sell vulnerabilities.
-- Do not ask for any form of compensation from an affected party.
-- You may compensate a disclosing party if you would like to after all known vulnerability details have been disclosed.
-- Do not disclose a bug or vulnerability on mailing lists, public boards, forums, social media or any other channel prior to Responsibly Disclosing to the organizations you have a published relationship with
-- Do not attempt any illegal acts, including phishing, physical attacks, DDoS, or any attempt to gain access without authorization
+1. Read the standard in full
+2. Decide if you agree with its principals and processes enough to commit to it. Feedback is welcome.
+3. If you would like to, publicly commit to the disclosure process and your disclosure relationships.
+4. Mention any ways in which you plan to deviate from the standard. The standard provides for some wiggle room to accomodate the specifics of the variety of technologies in the cryptocurrency space. If you intend to deviate from this ethical standard, it might make it easier to justify those decisions if you publicise them before you later come to rely on them. This also makes the disclosure process easier to understand for anyone reporting a bug to you.
 
 ### Publicly Committing to Disclosure Process
 To commit to this standard it requires that your published disclosure process include an addendum section that outlines policies specific to your project.
 
-1. Your preferred contact method (eg. email to this address)
+1. Your preferred contact method (eg. email to a security@ address)
 2. How to use that contact method securely (eg. full public key)
 3. Details of any bug bounty program if you have one, and what it does or does not cover (you can link to another single page that contains these details).
 4. Your list of neighboring projects who you will disclose to if you find an issue or if an issue is disclosed to you that might affect their products too.
@@ -43,6 +36,22 @@ To commit to this standard it requires that your published disclosure process in
 To provide ecosystem cohesion and the expectation of cooperation and timely delivery of vulnerability information, each participating organization will publicly commit to making disclosures that may affect related projects (‘neighbors’). This does not limit any participating organization from responsibly disclosing to other organizations, provided that they follow the other provisions and restrictions of this standard when doing so.
 
 Committing to disclosure relationships serves the purpose of setting the expectation of sharing by proxy to those parties should it be likely they are also affected by a disclosed bug. The intention is that all affected parties will collaborate on fixes, release updates together, then release vulnerability details together in concert with the original disclosing party.
+
+If the projects you have disclosure relationships with also commit to this standard, link to their page stating that commitment. Otherwise link to any page with their disclosure contact details on.
+
+## The Standard
+To adhere to this standard, your organization will need to publish a document describing your disclosure process and follow the basic practices involved. This document is a suggested starting point. Publishing can be achieved using GitHub, but wherever it is published it should be possible to link directly to it with a static url so that it can be linked by other participating organizations. 
+
+### Ethical Behavior
+Responsible disclosure is predicated on ethical behavior. These guidelines outline best practices for the community as whole, whether you are reporting, or the recipient of a report. By stating that you adhere to this policy, you’re claiming to handle vulnerability information ethically, and abide by the following:
+
+- Do not attempt to leverage a vulnerability, or information of its existence, as part of a financial trading strategy or otherwise for financial gain.
+- Do not attempt to compromise systems upon which development of a product relies; including but not limited to compromising development systems, accounts, domains, email etc..
+- Do not attempt to sell vulnerabilities.
+- Do not ask for any form of compensation from an affected party.
+- You may compensate a disclosing party if you would like to after all known vulnerability details have been disclosed.
+- Do not disclose a bug or vulnerability on mailing lists, public boards, forums, social media or any other channel prior to Responsibly Disclosing to the organizations you have a published relationship with
+- Do not attempt any illegal acts, including phishing, physical attacks, DDoS, or any attempt to gain access without authorization
 
 ### Standard Disclosure Timelines
 Some vulnerabilities take more time to fix than others, and some organizations are able to switch tasks to fixes faster than others, and this ability tends to fluctuate over time.
