@@ -99,17 +99,17 @@ Parties that have been disclosed to may, at their discretion, decide to pay a bo
 ### Acknowledgements
 If the reporting individual or organization would like to be recognized for their discovery, they may do so after the disclosure timeout. At the discretion of each participating team, a list of these individuals and/or organizations may recognize vulnerabilities disclosed responsibly.
 
-Reference links:
-https://medium.com/mit-media-lab-digital-currency-initiative/reducing-the-risk-of-catastrophic-cryptocurrency-bugs-dcdd493c7569 
-https://medium.com/mit-media-lab-digital-currency-initiative/http-coryfields-com-cash-48a99b85aad4 
-https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2017-September/015036.html 
-http://bitcoincore.org/en/contact 
-https://lists.linuxfoundation.org/pipermail/bitcoin-dev/ 
-https://www.reddit.com/r/btc/comments/6zf1qo/peter_todd_
-https://www.reddit.com/r/btc/comments/6z827o/chris_jeffrey_
-https://www.reddit.com/r/btc/comments/6zb3lp/maxwell_
-https://lists.linuxfoundation.org/pipermail/bitcoin-dev/
-http://luke.dashjr.org/programs/bitcoin/files/charts/branches.html
+### Reference links:
+https://medium.com/mit-media-lab-digital-currency-initiative/reducing-the-risk-of-catastrophic-cryptocurrency-bugs-dcdd493c7569  
+https://medium.com/mit-media-lab-digital-currency-initiative/http-coryfields-com-cash-48a99b85aad4  
+https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2017-September/015036.html  
+http://bitcoincore.org/en/contact  
+https://lists.linuxfoundation.org/pipermail/bitcoin-dev/  
+https://www.reddit.com/r/btc/comments/6zf1qo/peter_todd  
+https://www.reddit.com/r/btc/comments/6z827o/chris_jeffrey  
+https://www.reddit.com/r/btc/comments/6zb3lp/maxwell  
+https://lists.linuxfoundation.org/pipermail/bitcoin-dev/  
+http://luke.dashjr.org/programs/bitcoin/files/charts/branches.html  
 
 
 
