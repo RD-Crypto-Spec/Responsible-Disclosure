@@ -59,7 +59,7 @@ Some vulnerabilities take more time to fix than others, and some organizations a
 ### Initial Contact
 To disclose to a neighbor that you have an existing relationship with, you must contact them via their published contact details using the security procedures that they have published. If you get no response within two working days, you must try another two times with an interval of two working days each time. If you get no acknowledgement to those messages, you may optionally decide to attempt to reach them using other methods, but you must not include details of the vulnerability unless you are using their approved secure communication method.
 
-If there is no response after your initial contact attempts, you should send another message saying that there has been no response to your (at least three) messages and setting a date for public disclosure that is not less than 90 days in the future and not more than sixty days. If you receive a response during that time, both parties can agree to change the disclosure date in accordance with the rest of this process.
+If there is no response after your initial contact attempts, you should send another message saying that there has been no response to your (at least three) messages and setting a date for public disclosure that is not more than 90 days or less than 60 days in the future. If you receive a response during that time, both parties can agree to change the disclosure date in accordance with the rest of this process.
 
 ### Giving Details
 After you receive a response to your initial contact, you should disclose the details of the vulnerability to the potentially affected party, along with reasons you think they may be affected and any advice you have on how to fix the issue.
