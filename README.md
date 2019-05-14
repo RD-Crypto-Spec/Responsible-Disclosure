@@ -59,7 +59,7 @@ Some vulnerabilities take more time to fix than others, and some organizations a
 ### Initial Contact
 To disclose to a neighbor that you have an existing relationship with, you must contact them via their published contact details using the security procedures that they have published. If you get no response within two working days, you must try another two times with an interval of two working days each time. If you get no acknowledgement to those messages, you may optionally decide to attempt to reach them using other methods, but you must not include details of the vulnerability unless you are using their approved secure communication method.
 
-If there is no response after your initial contact attempts, you should send another message saying that there has been no response to your (at least three) messages and setting a date for public disclosure that is not less than 90 days in the future and not more than sixty days. If you receive a response during that time, both parties can agree to change the disclosure date in accordance with the rest of this process.
+If there is no response after your initial contact attempts, you should send another message saying that there has been no response to your (at least three) messages and setting a date for public disclosure that is not more than 90 days or less than 60 days in the future. If you receive a response during that time, both parties can agree to change the disclosure date in accordance with the rest of this process.
 
 ### Giving Details
 After you receive a response to your initial contact, you should disclose the details of the vulnerability to the potentially affected party, along with reasons you think they may be affected and any advice you have on how to fix the issue.
@@ -99,17 +99,17 @@ Parties that have been disclosed to may, at their discretion, decide to pay a bo
 ### Acknowledgements
 If the reporting individual or organization would like to be recognized for their discovery, they may do so after the disclosure timeout. At the discretion of each participating team, a list of these individuals and/or organizations may recognize vulnerabilities disclosed responsibly.
 
-Reference links:
-https://medium.com/mit-media-lab-digital-currency-initiative/reducing-the-risk-of-catastrophic-cryptocurrency-bugs-dcdd493c7569 
-https://medium.com/mit-media-lab-digital-currency-initiative/http-coryfields-com-cash-48a99b85aad4 
-https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2017-September/015036.html 
-http://bitcoincore.org/en/contact 
-https://lists.linuxfoundation.org/pipermail/bitcoin-dev/ 
-https://www.reddit.com/r/btc/comments/6zf1qo/peter_todd_
-https://www.reddit.com/r/btc/comments/6z827o/chris_jeffrey_
-https://www.reddit.com/r/btc/comments/6zb3lp/maxwell_
-https://lists.linuxfoundation.org/pipermail/bitcoin-dev/
-http://luke.dashjr.org/programs/bitcoin/files/charts/branches.html
+### Reference links:
+https://medium.com/mit-media-lab-digital-currency-initiative/reducing-the-risk-of-catastrophic-cryptocurrency-bugs-dcdd493c7569  
+https://medium.com/mit-media-lab-digital-currency-initiative/http-coryfields-com-cash-48a99b85aad4  
+https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2017-September/015036.html  
+http://bitcoincore.org/en/contact  
+https://lists.linuxfoundation.org/pipermail/bitcoin-dev/  
+https://www.reddit.com/r/btc/comments/6zf1qo/peter_todd  
+https://www.reddit.com/r/btc/comments/6z827o/chris_jeffrey  
+https://www.reddit.com/r/btc/comments/6zb3lp/maxwell  
+https://lists.linuxfoundation.org/pipermail/bitcoin-dev/  
+http://luke.dashjr.org/programs/bitcoin/files/charts/branches.html  
 
 
 
