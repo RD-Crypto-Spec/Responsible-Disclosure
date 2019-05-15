@@ -33,9 +33,9 @@ To commit to this standard it requires that your published disclosure process in
 6. The date that your commitment was last updated.
 
 ### Publicly Committing to Disclosure Relationships
-To provide ecosystem cohesion and the expectation of cooperation and timely delivery of vulnerability information, each participating organization will publicly commit to making disclosures that may affect related projects (‘neighbors’). This does not limit any participating organization from responsibly disclosing to other organizations, provided that they follow the other provisions and restrictions of this standard when doing so.
+To provide ecosystem cohesion and the expectation of cooperation and timely delivery of vulnerability information, each participating organization will publicly commit to making disclosures that may affect related projects (‘neighbors’). This does not limit any participating organization from responsibly disclosing to other organizations, provided that they follow the other provisions and restrictions of this standard when doing so. This does not require that projects share vulnerability information before they have fixed that issue in their own project(s), if they are vulnerable.
 
-Committing to disclosure relationships serves the purpose of setting the expectation of sharing by proxy to those parties should it be likely they are also affected by a disclosed bug. The intention is that all affected parties will collaborate on fixes, release updates together, then release vulnerability details together in concert with the original disclosing party.
+Committing to disclosure relationships serves the purpose of setting the expectation of sharing by proxy to those parties should it be likely they are also affected by a disclosed bug. The intention is that all disclosed-to parties will collaborate on fixes, release updates together, then release vulnerability details together in concert with the disclosing party.
 
 If the projects you have disclosure relationships with also commit to this standard, link to their page stating that commitment. Otherwise link to any page with their disclosure contact details on.
 
@@ -47,7 +47,7 @@ Responsible disclosure is predicated on ethical behavior. These guidelines outli
 
 - Do not attempt to leverage a vulnerability, or information of its existence, as part of a financial trading strategy or otherwise for financial gain.
 - Do not attempt to compromise systems upon which development of a product relies; including but not limited to compromising development systems, accounts, domains, email etc..
-- Do not attempt to sell vulnerabilities.
+- Do not attempt to sell vulnerability information or exploits.
 - Do not ask for any form of compensation from an affected party.
 - You may compensate a disclosing party if you would like to after all known vulnerability details have been disclosed.
 - Do not disclose a bug or vulnerability on mailing lists, public boards, forums, social media or any other channel prior to Responsibly Disclosing to the organizations you have a published relationship with
